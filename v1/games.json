@@ -374,5 +374,13 @@
     "Format": "apk",
     "filename": "TubeBeContinued.apk",
     "filePath": "http://corntube.net/index.php/s/qnSptsmP4KXw6BE/download"
+  },
+  {
+    "id": 48,
+    "title": "PowerWash Simulator VR",
+    "genre": "Simulation",
+    "Format": "zip",
+    "filename": "PowerwashSimulator.zip",
+    "filePath": "http://corntube.net/index.php/s/4DERGFo88stao6Z/download"
   }
 ]
