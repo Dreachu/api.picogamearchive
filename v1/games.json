@@ -432,7 +432,7 @@
     "filePath": "http://corntube.net/index.php/s/tzGyGKqGtXyRmy2/download"
   },
   {
-    "id": 54,
+    "id": 55,
     "title": "Marvel's Deadpool VR",
     "genre": "Shooter",
     "Format": "zip",
@@ -440,7 +440,7 @@
     "filePath": "http://corntube.net/index.php/s/cFBdYSZpFX5GEtM/download"
   },
   {
-    "id": 55,
+    "id": 56,
     "title": "Forest - Oniri tech demo",
     "genre": "Creativity",
     "Format": "zip",
@@ -448,11 +448,19 @@
     "filePath": "http://corntube.net/index.php/s/ZQXHNDyTkQXq7kn/download"
   },
   {
-    "id": 56,
+    "id": 57,
     "title": "The Boys: Trigger Warning",
     "genre": "Shooter",
     "Format": "zip",
     "filename": "TheBoysvr.zip",
     "filePath": "http://corntube.net/index.php/s/aPAjQtBK8DJwRbQ/download"
+  },
+        {
+    "id": 58,
+    "title": "Tetris Effect: Connected",
+    "genre": "Puzzle",
+    "Format": "zip",
+    "filename": "TetrisEffect.zip",
+    "filePath": "http://corntube.net/index.php/s/cgc7qMB3qX6YDqi/download"
   }
 ]
